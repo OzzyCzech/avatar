@@ -1,2 +1,3 @@
-# avatar
-My avatar
+# My Avatar
+
+All my official avatars
